@@ -1,0 +1,31 @@
+# Operating system junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local tooling and dependencies (not needed for this project)
+node_modules/
+dist/
+build/
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+yarn-error.log*
+*.tmp
+
+# Environment files (never commit secrets)
+.env
+.env.*
